@@ -1,3 +1,5 @@
-def oxford_comma(array)
-  array.to_s
+def oxford_comma(sentence)
+  fruit = ["kiwi"]
+  fruit 2 = ["kiwi"]
+  fruit 3 ["kiwi"]
 end
